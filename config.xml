@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<metadata>
+		<name>LimeSurveyConnect</name>
+		<type>plugin</type>
+		<creationDate>2025-01-30</creationDate>
+		<lastUpdate>2025-01-30</lastUpdate>
+		<author>Makhmud Mustafabek Galy</author>
+		<authorUrl>https://github.com/makhmudgaly/LimeSurveyConnect</authorUrl>
+		<version>1.0.0</version>
+		<license>MIT</license>
+		<description twig="on"><![CDATA[DiscourseConnnect-like auth]]></description>
+	</metadata>
+
+	<compatibility>
+    <version>6.6</version>
+  </compatibility>
+
+  <namespace>LimeSurveyConnect</namespace>
+  <updaters disabled="disabled">
+  </updaters>
+</config>
